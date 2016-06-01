@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/milooy/es6-playground#readme",
   "devDependencies": {
-    "babel-cli": "^6.9.0"
+    "babel": "^6.5.2",
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0"
   }
 }
